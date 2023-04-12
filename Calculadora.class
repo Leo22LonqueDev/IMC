@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public static void main(String[] args) {
+    
+    var nome;
+    var altura;
+    var peso;
+
+    Scanner entrada = new entrada();
+    
+    Systemoutprintln("Insira o seu nome por favor: ");
+        nome = entrada.nextLine();
+
+    System.out.println("Insira o valor da sua altura" + nome + );
+    
+
+
+
+
+
+    entrada.close();
+}
